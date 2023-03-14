@@ -1,2 +1,9 @@
-# siteViagens_web1_2023
-Site de Viagens
+# Site de Viagens I 2023
+### Prejeto desenvolvimento na Disciplina de Web I
+
+ 1. HTML
+ 2. CSS
+ 3. VsCode
+ 4. GitHub
+ 
+**By Jefferson Maioli**
